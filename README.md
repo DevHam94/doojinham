@@ -1,6 +1,6 @@
-### Hi there 👋, my name is DooJin
-#### I am GitHub Readme Generator's creator
-Web Developer
+#### Hi there 👋, my name is DooJin
+##### I am GitHub Readme Generator's creator 
+##### Web Developer
 
 Skills: JAVA / SPRING / REACT / JS / HTML / CSS
 
